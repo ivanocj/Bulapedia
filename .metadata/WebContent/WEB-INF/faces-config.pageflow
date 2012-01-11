@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf13208626437630" configfile="/bulapedia/WebContent/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="resultadoIndexacao" x="338" y="562" id="pf13209451831131" referenceLink="//@navigationRule.1/@navigationCase.0/@toViewId|" path="/resultadoIndexacao.jsp"/>
+  <nodes xsi:type="pageflow:PFPage" name="index" x="175" y="202" id="pf13209476319192" referenceLink="//@navigationRule.1/@fromViewId|" outlinks="pf13209476319193 pf13209504099570" path="/index.jsp"/>
+  <nodes xsi:type="pageflow:PFPage" name="resultadosIndexacao" x="364" y="156" id="pf13209476319196" referenceLink="//@navigationRule.0/@navigationCase.0/@toViewId|" inlinks="pf13209476319193" path="/resultadosIndexacao.jsp"/>
+  <nodes xsi:type="pageflow:PFPage" name="resultadosBusca" id="pf13209504099571" referenceLink="//@navigationRule.1/@navigationCase.0/@toViewId|" inlinks="pf13209504099570" path="/resultadosBusca.jsp"/>
+  <links id="pf13209476319193" target="pf13209476319196" source="pf13209476319192" outcome="indexa"/>
+  <links id="pf13209504099570" target="pf13209504099571" source="pf13209476319192" outcome="busca"/>
+</pageflow:Pageflow>

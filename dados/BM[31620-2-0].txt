@@ -1,0 +1,279 @@
+Nomenclatura botânica oficial: Valeriana officinalis L.
+Nomenclatura popular: Valeriana
+Família: Valerianaceae
+Parte da planta utilizada: raiz
+
+Citar o nome comercial do medicamento.
+Citar a denominação genérica do(s) princípio(s) ativo(s), utilizando a Denominação Comum Brasileira
+(DCB).
+Para medicamentos fitoterápicos, informar espécie vegetal (Gênero + epíteto específico) para sua a
+denominação genérica, a família, a parte da planta utilizada e a nomenclatura popular.
+Para medicamentos fitoterápicos, registrados com base na tradicionalidade de uso, inserir as frases:
+"Medicamento fitoterápico registrado com base no uso tradicional." (em negrito)
+"Não é recomendado o uso por período prolongado enquanto estudos clínicos amplos sobre sua segurança
+não forem realizados."
+
+APRESENTAÇÕES
+Citar apresentações comercializadas, informando:
+- a forma farmacêutica;
+- a concentração do(s) princípio(s) ativo(s), por unidade de medida ou unidade farmacotécnica, conforme
+o caso;
+- a quantidade total de peso, volume líquido ou unidades farmacotécnicas, conforme o caso;
+- a quantidade total de acessórios dosadores que acompanha as apresentações, quando aplicável.
+Citar via de administração, usando caixa alta e negrito.
+Incluir a frase, em caixa alta e em negrito, "USO ADULTO", "USO ADULTO E PEDIÁTRICO
+ACIMA DE___" ou "USO PEDIÁTRICO ACIMA DE ____", indicando a idade mínima, em meses ou
+anos, para qual foi aprovada no registro o uso do medicamento. No caso de medicamentos sem restrição
+de uso por idade, conforme aprovado no registro, incluir a frase "USO ADULTO e PEDIÁTRICO".
+
+COMPOSIÇÃO
+Cada (forma farmacêutica) contém:
+Extrato XXX de Valeriana officinalis....................................... XXX mg (padronizado em
+XXX mg (XXX%) de ácidos sesquiterpênicos expressos em ácido valerênico.
+Para o(s) princípio(s) ativo(s), descrever a composição qualitativa, conforme DCB, e quantitativa e
+indicar equivalência sal-base, quando aplicável.
+Para os excipientes, descrever a composição qualitativa, conforme DCB.
+Para formas farmacêuticas líquidas, quando o solvente for alcoólico, mencionar a graduação alcoólica do
+produto final.
+Para medicamentos com forma farmacêutica líquida e em gotas, informar a equivalência de gotas para
+cada mililitro (gotas/mL) e massa por gota (mg/gotas) .
+Para medicamentos fitoterápicos, a composição do medicamento deve indicar a relação real, em peso ou
+volume, do derivado vegetal utilizado a correspondência em marcadores e a descrição do derivado.
+
+
+1. PARA QUE ESTE MEDICAMENTO É INDICADO?
+Usado como sedativo moderado, como agente promotor do sono e no tratamento de distúrbios do
+sono associados à ansiedade (OMS, 1999).
+
+2. COMO ESTE MEDICAMENTO FUNCIONA?
+ Atua no Sistema Nervoso Central (SNC) exercendo um leve efeito calmante (OMS, 1999) além de
+auxiliar na regularização dos distúrbios do sono (VORBACH et al., 1996; OMS, 1999).
+
+3. QUANDO NÃO DEVO USAR ESTE MEDICAMENTO?
+ Pessoas com hipersensibilidade ao extrato de V. officinalis e aos outros componentes da fórmula
+não devem usar este medicamento. Em caso de hipersensibilidade ao produto, recomenda-se
+descontinuar o uso e consultar o médico.
+Não há dados disponíveis acerca do uso de Valeriana durante a gravidez e a lactação (ESCOP,
+1997). Este medicamento não deve ser usado nessas condições, exceto sob orientação médica.
+Informe ao seu médico se ocorrer gravidez ou se iniciar amamentação durante o uso deste
+medicamento.
+A V. officinalis não deve ser administrada para crianças abaixo de três anos (ESCOP, 1997).
+Não existem contra indicações ou precauções especiais específicas para pacientes idosos (ESCOP,
+1997).
+O medicamento a base de V. officinalis pode potencializar o efeito de outros medicamentos
+depressores do SNC. Estudos em animais mostraram um efeito aditivo quando utilizado em
+combinação com barbitúricos, anestésicos ou benzodiazepínicos e outros fármacos depressores do
+SNC (PDR, 2000; ALEXANDRE, 2004).
+Recomenda-se evitar o uso deste medicamento juntamente com a ingestão de bebidas alcoólicas
+pela possível exacerbação dos efeitos sedativos (MICROMEDEX, 2003).
+Este medicamento pode causar sonolência, não sendo, portanto, recomendável a sua administração
+antes de dirigir, operar máquinas ou realizar qualquer atividade de risco que necessite atenção
+(ESCOP, 1997; BLUMENTHAL, 2003).
+Utilizar apenas a via oral. O uso deste medicamento por outra via, que não a oral, pode causar a
+perda do efeito esperado ou mesmo promover danos ao seu usuário.
+Não ingerir doses maiores do que as recomendadas.
+
+4. O QUE DEVO SABER ANTES DE USAR ESTE MEDICAMENTO?
+Em caso de hipersensibilidade ao produto, recomenda-se descontinuar o uso.
+Não ingerir doses maiores do que as recomendadas.
+De acordo com a categoria de risco de fármacos destinados às mulheres grávidas, este
+medicamento apresenta categoria de risco C. Este medicamento não deve ser utilizado por
+mulheres grávidas sem orientação médica ou do cirurgião dentista.
+Não há evidências suficientes de que medicamentos à base de V. officinalis afetem a habilidade de
+operar máquinas ou dirigir, mas como esses dados são insuficientes, deve-se evitar tais atividades
+durante o tratamento com estes medicamentos (BOS et al., 1997; ERNST et al., 2001).
+Este medicamento pode potencializar o efeito de outros depressores do SNC. Estudos em animais
+mostraram que a V. officinalis possui efeito aditivo quando utilizado em combinação com
+barbitúricos, anestésicos ou benzodiazepínicos e outros fármacos depressores do SNC (PDR, 2000
+& ALEXANDRE, 2004). O ácido valerênico aumentou o tempo de sono induzido pelo
+pentobarbital (intraperitoneal (IP) em camundongo), enquanto o extrato aquoso seco alcalino
+aumentou o tempo de sono com o tiopental (via oral em camundongo) e o extrato etanólico
+prolongou a anestesia promovida por tiopental (IP em camundongo) devido a sua afinidade aos
+receptores barbitúricos. Devido à afinidade do extrato de V. officinalis e valepotriatos com
+receptores de GABA e benzodiazepínicos (in vitro) e a diminuição nos efeitos causados pela
+retirada do diazepam por uma dose suficientemente grande de valepotriatos (IP em ratos), extratos
+de V. officinalis contendo valepotriatos podem auxiliar na síndrome de abstinência pela retirada do
+uso do diazepam (BRINKER, 1998).
+Recomenda-se evitar o uso de V. officinalis juntamente com a ingestão de bebidas alcoólicas pela
+possível exacerbação dos efeitos sedativos (MICROMEDEX, 2003).
+Não foram encontrados dados na literatura consultada sobre interações de preparações de V.
+officinalis com exames laboratoriais e com alimentos.
+Incluir a frase, em negrito:
+"Informe ao seu médico ou cirurgião-dentista se você está fazendo uso de algum outro medicamento."
+
+Para os medicamentos vendidos sob prescrição médica, incluir a seguinte frase, em negrito:
+"Não use medicamento sem o conhecimento do seu médico. Pode ser perigoso para a sua saúde."
+
+5. ONDE, COMO E POR QUANTO TEMPO POSSO GUARDAR ESTE MEDICAMENTO?
+Descrever os cuidados de conservação do medicamento.
+Incluir as seguintes frases, em negrito:
+"Número de lote e datas de fabricação e validade: vide embalagem."
+"Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original."
+Incluir as seguintes frases, em negrito:
+"Antes de usar, observe o aspecto do medicamento. Caso ele esteja no prazo de validade e você observe
+alguma mudança no aspecto, consulte o farmacêutico para saber se poderá utilizá-lo."
+Incluir a seguinte frase, em negrito:
+"Todo medicamento deve ser mantido fora do alcance das crianças."
+
+6. COMO DEVO USAR ESTE MEDICAMENTO?
+Ingerir XXX (inserir o nome da forma farmacêutica), XXX vezes ao dia. (A dosagem diária deve
+estar padronizada em valores de 1,0 a 7,5 de ácidos sesquiterpênicos expressos em ácido
+valerênico).
+Descrever a posologia, incluindo as seguintes informações:
+- dose para forma farmacêutica e concentração, expresso, quando aplicável, em unidades de medida ou
+unidade farmacotécnica correspondente em função ao tempo, definindo o intervalo de administração em
+unidade de tempo;
+- a dose inicial e de manutenção, quando aplicável;
+- duração de tratamento;
+- vias de administração;
+
+Descrever o limite máximo diário de administração do medicamento expresso em unidades de medida ou
+unidade farmacotécnica correspondente.
+Para os medicamentos vendidos sob prescrição médica, incluir as seguintes frases, em negrito:
+"Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico."
+Conforme característica da forma farmacêutica, incluir a seguinte frase, em negrito:
+"Este medicamento não deve ser partido, aberto ou mastigado." (para comprimidos revestidos, cápsulas e
+compridos de liberação modificada e outras que couber) ou "Este medicamento não deve ser cortado."
+(para adesivos e outras que couber)
+
+7. O QUE DEVO FAZER QUANDO EU ME ESQUECER DE USAR ESTE MEDICAMENTO?
+Descrever a conduta necessária, caso haja esquecimento de administração (dose omitida), quando for o
+caso.
+Orientar sobre a atitude adequada quando houver a possibilidade de síndrome de abstinência.
+Incluir a seguinte frase, em negrito:
+"Em caso de dúvidas, procure orientação do farmacêutico ou de seu médico, ou cirurgião-dentista."
+
+8. QUAIS OS MALES QUE ESTE MEDICAMENTO PODE ME CAUSAR?
+Os efeitos adversos relatados foram raros e leves (O`NARA et al., 1998; STEVINSON; ERNST,
+2000), incluindo tontura, indisposição gastrintestinal, alergias de contato, dor de cabeça e midríase
+(dilatação da pupila) (LEATHWOOD et al., 1982; KAMM-KOHL, 1984; VORBACH, 1996).
+Com o uso em longo prazo, os seguintes sintomas podem ocorrer: dor de cabeça, cansaço, insônia,
+midríase e desordens cardíacas (PDR, 2000).
+O uso crônico de altas doses de V. officinalis por muitos anos aumentou a possibilidade de
+ocorrência de síndrome de abstinência com a retirada abrupta do medicamento (BLUMENTHAL,
+2003).
+Incluir as seguintes frases, em negrito:
+"Informe ao seu médico, cirurgião-dentista ou farmacêutico o aparecimento de reações indesejáveis pelo
+uso do medicamento. Informe também à empresa através do seu serviço de atendimento."
+Substituir a frase anterior pela seguinte, quando se tratar de um medicamento novo, referente à molécula
+nova isolada ou em associação, no Brasil, em condições normais de comercialização ou dispensação
+durante os cinco primeiros anos de comercialização:
+ "Atenção: este produto é um medicamento novo e, embora as pesquisas tenham indicado eficácia e
+segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos
+imprevisíveis ou desconhecidos. Nesse caso, informe seu médico ou cirurgião-dentista."
+Substituir a frase anterior pela seguinte, quando já houver passado o prazo dos cinco primeiros anos para
+molécula nova isolada ou em associação, e incluí-la durante cinco anos de comercialização do
+medicamento com nova indicação terapêutica, nova via de administração, nova concentração, nova forma
+farmacêutica e/ou nova associação no país:
+"Atenção: este produto é um medicamento que possui __________ no país e, embora as pesquisas tenham
+indicado eficácia e segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer
+eventos adversos imprevisíveis ou desconhecidos. Nesse caso, informe seu médico". (incluindo no
+espaço: nova indicação terapêutica, nova via de administração, nova concentração, nova forma
+farmacêutica e/ou nova associação, conforme o caso)
+
+9. O QUE FAZER SE ALGUÉM USAR UMA QUANTIDADE MAIOR DO QUE A INDICADA
+DESTE MEDICAMENTO?
+Em casos de superdosagem podem ocorrer sintomas adversos leves como fadiga, cãibras
+abdominais, tensionamento do tórax, tontura, tremores e midríase que desapareceram no período
+de 24 horas após descontinuação do uso (ESCOP, 1997).
+
+Em caso de superdosagem, suspender o uso e procurar orientação médica de imediato.
+Inserir as seguintes frases, em negrito:
+"Em caso de uso de grande quantidade deste medicamento, procure rapidamente socorro médico e leve a
+embalagem ou bula do medicamento, se possível. Ligue para 0800 722 6001, se você precisar de mais
+orientações."
+
+DIZERES LEGAIS
+Informar a sigla "MS" mais o número de registro no Ministério da Saúde conforme publicado em Diário
+Oficial da União (D.O.U.), sendo necessários os 9 (nove) dígitos iniciais.
+Informar o nome, número de inscrição e sigla do Conselho Regional de Farmácia do responsável técnico
+da empresa titular do registro.
+Informar o nome e endereço da empresa titular do registro no Brasil.
+Informar o número do Cadastro Nacional de Pessoa Jurídica (CNPJ) do titular do registro.
+Inserir a expressão "Indústria Brasileira", quando aplicável.
+Informar o telefone do Serviço de Atendimento ao Consumidor (SAC), de responsabilidade da empresa
+titular do registro.
+Informar o nome e endereço da empresa fabricante, quando ela diferir da empresa titular do registro,
+citando a cidade e o estado precedidos pela frase "Fabricado por:" e inserindo a frase "Registrado por:"
+antes dos dados da detentora do registro.
+Informar o nome e endereço da empresa fabricante, quando o medicamento for importado, citando a
+cidade e o país precedidos pela frase "Fabricado por" e inserindo a frase "Importado por:" antes dos
+dados da empresa titular do registro.
+Informar o nome e endereço da empresa responsável pela embalagem do medicamento, quando ela diferir
+da empresa titular do registro ou fabricante, citando a cidade e o estado ou, se estrangeira, a cidade e o
+país, precedidos pela frase "Embalado por:" e inserindo a frase "Registrado por:" ou "Importando por:",
+conforme o caso, antes dos dados da empresa titular do registro;
+Informar, se descrito na embalagem do medicamento, o nome e endereço da empresa responsável pela
+comercialização do medicamento, citando a cidade e o estado precedidos pela frase "Comercializado por"
+e incluindo a frase "Registrado por:" antes dos dados da detentora do registro.
+É facultativo incluir a logomarca da empresa farmacêutica titular do registro, bem como das empresas
+fabricantes e responsáveis pela embalagem e comercialização do medicamento, desde que não
+prejudiquem a presença das informações obrigatórias e estas empresas estejam devidamente identificadas
+nos dizeres legais.
+Incluir as seguintes frases, quando for o caso:
+"Uso restrito a hospitais" (para os medicamentos de uso restrito a hospitais);
+"Venda sob prescrição médica" (para os medicamentos de venda sob prescrição médica);
+"Siga corretamente o modo de usar, não desaparecendo os sintomas procure orientação médica" (para os
+medicamentos vendidos sem exigência de prescrição médica);
+"Uso sob prescrição médica." (para embalagens com destinação institucional);
+"Venda proibida ao comércio." (para os medicamentos com destinação institucional).
+Incluir as frases de restrições de venda, uso e dispensação previstas na norma específica para produtos
+controlados.
+Incluir, exceto nos textos de bula a serem submetidos eletronicamente à Anvisa, uma das seguintes frases,
+conforme o caso, em negrito:
+"Esta bula foi aprovada pela Anvisa em (dia/mês/ano)" (informando a data de publicação da bula no
+Bulário Eletrônico)
+"Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em (dia/mês/ano)" (informando a
+data de publicação da respectiva Bula Padrão no Bulário Eletrônico com a qual a bula foi harmonizada
+e/ou atualizada)
+Incluir símbolo da reciclagem de papel.
+
+
+VENDA SOB PRESCRIÇÃO MÉDICA
+
+REFERÊNCIAS UTILIZADAS:
+ALEXANDRE, RF. Fitoterapia baseada em evidências: exemplos dos medicamentos fitoterápicos
+mais vendidos em Santa Catarina. Dissertação apresentada à UFSC. 2004.
+ANDERSON, et al. Pharmacocinetics of valerenic acid after administration of valerian in health
+subjects. Phytotherapy research. 19, 801-3. 2005
+BLUMENTHAL, M. American Botanical Council ­ ABC Clinical Guide. American Botanical
+Council. Austin, 2003. p. 351-64.
+BOS, R, WOERDENBAG, HJ, DE SMET, PAGM, et al. Valeriana species. In:. DE SMET,
+PAGM, KELLER, K, et al. (Eds) Adverse effects of herbal drugs. Berlin: Springer-Verlag, v. 3,
+1997, p. 165-180.31
+BRINKER, ND. Herb contraindications and drug interaction. 2a ed. Ecletic Medical Publications.
+Oregon. 1998.
+DONATH, F, QUISPE, S, DIEFENBACH, K, et al. Critical evaluation of the effect of valerian
+extract on leep structure and sleep quality. Pharmacopsychiatry, v. 33, p. 47-53, 2000.
+ERNST, E, PITTLER, MH, STEVINSON, C. et al. The desktop guide to complementary and
+alternative medicine. London: Mosby, 2001, p.155-157.
+ESCOP, European Scientific Cooperative on Phytotherapy. Monographs on the medicinal uses of
+plant drugs. Fascículo 4. 1997.
+Farmacopéia Européia. 5ª edição.
+HADLEY, S, PETRY, JJ. Valerian. Complementary and alternative medicine, 15. v. 67, no 08.
+2003. 1755-8.
+KAMM-KOHL, AV, JANSEN, W, BROCKMANN, P. Moderne baldriabtherapie gegen nervose
+Storungen im Selium. Die Medizinische Welt, v. 35, p. 1450-54, 1984.
+LEATHWOOD, P-D, CHAUFFARD, F, HECK, E. et al. Aqueous extract of valerian root
+(Valerian officinalis L.) improves sleep quality in man. Pharmacology, Biochemistry, and
+Behavior, v. 17, p.65-71, 1982.
+LEATHWOOD, PD, CHAUFFARD, F. Aqueous extract of valerian reduces latency to fall asleep
+in man. Planta Medica, v. 51, p.144-148, 1985.
+MAHADY, GB, FONG, HHS, FARNSWORTH, N. R. Botanical dietary supplements: quality,
+safety and efficacy. Lisse: Swets & Zeitlinger, 2001, p. 245-61.
+MICROMEDEX. DRUG-REAX® Interactive Drug Interactions: Valerian. Disponível em:
+<http://cdrompro.com.br/micromedex/trial.html>. Acesso em: 15 ago. 2003.
+O`NARA, M, KIEFER, D, FARREL, K, et al. A review of 12 commonly used medicinal herbs.
+Archives of Family Medicine, v. 7, p. 523-36, 1998.
+OMS. Valerianae radix. WHO monographs selected medicinal plants. Geneva: WHO, v. 1, 1999,
+p. 267-76.
+PDR. PHISICIANS DESK REFERENCE FOR HERBAL MEDICINES. 2a ed. 2000.
+ROTBLATT, M, ZIMENT, I. Evidence-based herbal medicine. Philadelphia: Hanley & Belfus,
+2002, p. 315-21.
+STEVINSON, C, ERNST, E. Valerian for insomnia: a systematic review of randomized clinical
+trials. Sleep Medicine, v. 1, p.91-99, 2000.
+United States Pharmacopoea. USP. 29a ed.
+VORBACH, EU, GORTELMEYER, R, BRUNING, J. Therapie von insomnien: wirksamkeit und
+verträglichkeit eines baldrianpräparats. Psychopharmakotherapie, v. 3, p. 109-15, 1996.
+

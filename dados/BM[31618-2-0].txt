@@ -1,0 +1,237 @@
+Nomenclatura botânica oficial: Serenoa repens (W. Bartram) Small
+Nomenclatura popular: Saw palmeto
+Família: Arecaceae
+Parte da planta utilizada: frutos
+
+Citar o nome comercial do medicamento.
+Citar a denominação genérica do(s) princípio(s) ativo(s), utilizando a Denominação Comum Brasileira
+(DCB).
+Para medicamentos fitoterápicos, informar espécie vegetal (Gênero + epíteto específico) para sua a
+denominação genérica, a família, a parte da planta utilizada e a nomenclatura popular.
+Para medicamentos fitoterápicos, registrados com base na tradicionalidade de uso, inserir as frases:
+"Medicamento fitoterápico registrado com base no uso tradicional." (em negrito)
+"Não é recomendado o uso por período prolongado enquanto estudos clínicos amplos sobre sua segurança
+não forem realizados."
+
+APRESENTAÇÕES
+Citar apresentações comercializadas, informando:
+- a forma farmacêutica;
+- a concentração do(s) princípio(s) ativo(s), por unidade de medida ou unidade farmacotécnica, conforme
+o caso;
+- a quantidade total de peso, volume líquido ou unidades farmacotécnicas, conforme o caso;
+- a quantidade total de acessórios dosadores que acompanha as apresentações, quando aplicável.
+Citar via de administração, usando caixa alta e negrito.
+Incluir a frase, em caixa alta e em negrito, "USO ADULTO", "USO ADULTO E PEDIÁTRICO
+ACIMA DE___" ou "USO PEDIÁTRICO ACIMA DE ____", indicando a idade mínima, em meses ou
+anos, para qual foi aprovada no registro o uso do medicamento. No caso de medicamentos sem restrição
+de uso por idade, conforme aprovado no registro, incluir a frase "USO ADULTO e PEDIÁTRICO".
+
+COMPOSIÇÃO
+Cada (forma farmacêutica) contém:
+Extrato lipídico esteroidal de Serenoa repens ....................................XXX mg (padronizado em
+XXX mg (XXX%) mg de ácidos graxos).
+Para o(s) princípio(s) ativo(s), descrever a composição qualitativa, conforme DCB, e quantitativa e
+indicar equivalência sal-base, quando aplicável.
+Para os excipientes, descrever a composição qualitativa, conforme DCB.
+Para formas farmacêuticas líquidas, quando o solvente for alcoólico, mencionar a graduação alcoólica do
+produto final.
+Para medicamentos com forma farmacêutica líquida e em gotas, informar a equivalência de gotas para
+cada mililitro (gotas/mL) e massa por gota (mg/gotas) .
+Para medicamentos fitoterápicos, a composição do medicamento deve indicar a relação real, em peso ou
+volume, do derivado vegetal utilizado a correspondência em marcadores e a descrição do derivado.
+
+
+1. PARA QUE ESTE MEDICAMENTO É INDICADO?
+Tratamento de Hiperplasia Benigna da Próstata e dos sintomas associados.
+
+2. COMO ESTE MEDICAMENTO FUNCIONA?
+ Este medicamento atua na redução do crescimento do número de células da próstata. Esta
+propriedade resulta da inibição da produção e ação do hormônio diidrotestosterona (DHT) no
+tecido prostático. A acumulação deste é fator importante para o crescimento e aumento do volume
+da próstata. Desta forma, este medicamento é utilizado no tratamento e alívio de sintomas da
+Hiperplasia Benigna da Próstata (HPB), tais como: diminuição da força do jato de urina, vontade
+constante de urinar, principalmente à noite, e sensação de esvaziamento incompleto da bexiga.
+3. QUANDO NÃO DEVO USAR ESTE MEDICAMENTO?
+ Pacientes com histórico de hipersensibilidade e alergia a qualquer um dos componentes da fórmula
+não devem fazer uso do produto.
+Este medicamento não é indicado nos casos mais intensos de retenção urinária. Deverá ser feita
+uma consulta médica prévia a fim de afastar a possibilidade de câncer de próstata.
+As infecções e/ou inflamações do trato urinário, além de outras desordens renais, podem apresentar
+sintomas semelhantes aos da HPB, sendo de grande importância para o paciente uma avaliação
+médica, antes de utilizar este medicamento fitoterápico.
+O uso deste medicamento deve ser acompanhado por consulta médicas periódicas.
+Mulheres, principalmente grávidas ou em amamentação, não devem fazer uso deste fitoterápico.
+Este medicamento é contra-indicado para crianças.
+Medicamentos utilizados em terapia de reposição hormonal podem exigir reajustes de dose, face à
+administração concomitante deste medicamento fitoterápico
+
+4. O QUE DEVO SABER ANTES DE USAR ESTE MEDICAMENTO?
+Em caso de hipersensibilidade ao produto, recomenda-se descontinuar o uso e consultar o médico.
+O nível hormonal dos pacientes em tratamento com este medicamento merece atenção especial,
+face aos efeitos antiandrogênicos e antiestrogênicos relatados pela literatura.
+O uso deste medicamento deve ser acompanhado de consulta regular e periódica ao médico
+(BLUMENTHAL et al., 1998).
+De acordo com a categoria de risco de fármacos destinados às mulheres grávidas, este
+medicamento apresenta categoria de risco C. Este medicamento não deve ser utilizado por
+mulheres grávidas sem orientação médica ou do cirurgião dentista.
+Hormônios utilizados na Terapia de Reposição Hormonal (TRH) podem exigir reajuste de dose,
+face os efeitos antiandrogênicos e antiestrogênicos deste fitoterápico. A revisão da literatura não
+revela evidências de interações medicamentosas graves com drogas convencionais. Estudo in vitro
+já demonstrou a potencialização da inibição dos antagonistas do alfa-1-adrenoreceptor, porém a
+relevância clinica deste não foi confirmada (MCGUFFIN et al., 1997).
+Incluir a frase, em negrito:
+"Informe ao seu médico ou cirurgião-dentista se você está fazendo uso de algum outro medicamento."
+
+Para os medicamentos vendidos sob prescrição médica, incluir a seguinte frase, em negrito:
+"Não use medicamento sem o conhecimento do seu médico. Pode ser perigoso para a sua saúde."
+
+5. ONDE, COMO E POR QUANTO TEMPO POSSO GUARDAR ESTE MEDICAMENTO?
+Descrever os cuidados de conservação do medicamento.
+Incluir as seguintes frases, em negrito:
+"Número de lote e datas de fabricação e validade: vide embalagem."
+"Não use medicamento com o prazo de validade vencido. Guarde-o em sua embalagem original."
+Incluir as seguintes frases, em negrito:
+"Antes de usar, observe o aspecto do medicamento. Caso ele esteja no prazo de validade e você observe
+alguma mudança no aspecto, consulte o farmacêutico para saber se poderá utilizá-lo."
+Incluir a seguinte frase, em negrito:
+"Todo medicamento deve ser mantido fora do alcance das crianças."
+
+6. COMO DEVO USAR ESTE MEDICAMENTO?
+USO ORAL/ USO INTERNO
+Ingerir XXX (inserir o nome da forma farmacêutica), XXX vezes ao dia. (A dose diária deve estar
+entre 272 e 304 mg de ácidos graxos).
+Descrever a posologia, incluindo as seguintes informações:
+- dose para forma farmacêutica e concentração, expresso, quando aplicável, em unidades de medida ou
+unidade farmacotécnica correspondente em função ao tempo, definindo o intervalo de administração em
+unidade de tempo;
+- a dose inicial e de manutenção, quando aplicável;
+- duração de tratamento;
+- vias de administração;
+
+Descrever o limite máximo diário de administração do medicamento expresso em unidades de medida ou
+unidade farmacotécnica correspondente.
+Para os medicamentos vendidos sob prescrição médica, incluir as seguintes frases, em negrito:
+"Siga a orientação de seu médico, respeitando sempre os horários, as doses e a duração do tratamento.
+Não interrompa o tratamento sem o conhecimento do seu médico."
+Conforme característica da forma farmacêutica, incluir a seguinte frase, em negrito:
+"Este medicamento não deve ser partido, aberto ou mastigado." (para comprimidos revestidos, cápsulas e
+compridos de liberação modificada e outras que couber) ou "Este medicamento não deve ser cortado."
+(para adesivos e outras que couber)
+
+7. O QUE DEVO FAZER QUANDO EU ME ESQUECER DE USAR ESTE MEDICAMENTO?
+Descrever a conduta necessária, caso haja esquecimento de administração (dose omitida), quando for o
+caso.
+Orientar sobre a atitude adequada quando houver a possibilidade de síndrome de abstinência.
+Incluir a seguinte frase, em negrito:
+"Em caso de dúvidas, procure orientação do farmacêutico ou de seu médico, ou cirurgião-dentista."
+
+8. QUAIS OS MALES QUE ESTE MEDICAMENTO PODE ME CAUSAR?
+Náusea, distúrbios estomacais, dor abdominal, prisão de ventre e diarréia. Em casos raros, pode
+ocorrer aumento da pressão arterial, diminuição do desejo sexual, impotência, retenção urinária e
+dor de cabeça.
+Incluir as seguintes frases, em negrito:
+"Informe ao seu médico, cirurgião-dentista ou farmacêutico o aparecimento de reações indesejáveis pelo
+uso do medicamento. Informe também à empresa através do seu serviço de atendimento."
+Substituir a frase anterior pela seguinte, quando se tratar de um medicamento novo, referente à molécula
+nova isolada ou em associação, no Brasil, em condições normais de comercialização ou dispensação
+durante os cinco primeiros anos de comercialização:
+ "Atenção: este produto é um medicamento novo e, embora as pesquisas tenham indicado eficácia e
+segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer eventos adversos
+imprevisíveis ou desconhecidos. Nesse caso, informe seu médico ou cirurgião-dentista."
+Substituir a frase anterior pela seguinte, quando já houver passado o prazo dos cinco primeiros anos para
+molécula nova isolada ou em associação, e incluí-la durante cinco anos de comercialização do
+medicamento com nova indicação terapêutica, nova via de administração, nova concentração, nova forma
+farmacêutica e/ou nova associação no país:
+"Atenção: este produto é um medicamento que possui __________ no país e, embora as pesquisas tenham
+indicado eficácia e segurança aceitáveis, mesmo que indicado e utilizado corretamente, podem ocorrer
+eventos adversos imprevisíveis ou desconhecidos. Nesse caso, informe seu médico". (incluindo no
+espaço: nova indicação terapêutica, nova via de administração, nova concentração, nova forma
+farmacêutica e/ou nova associação, conforme o caso)
+
+9. O QUE FAZER SE ALGUÉM USAR UMA QUANTIDADE MAIOR DO QUE A INDICADA
+DESTE MEDICAMENTO?
+Em caso de superdosagem, suspender o uso e procurar orientação médica de imediato.
+Inserir as seguintes frases, em negrito:
+"Em caso de uso de grande quantidade deste medicamento, procure rapidamente socorro médico e leve a
+embalagem ou bula do medicamento, se possível. Ligue para 0800 722 6001, se você precisar de mais
+orientações."
+
+DIZERES LEGAIS
+Informar a sigla "MS" mais o número de registro no Ministério da Saúde conforme publicado em Diário
+Oficial da União (D.O.U.), sendo necessários os 9 (nove) dígitos iniciais.
+Informar o nome, número de inscrição e sigla do Conselho Regional de Farmácia do responsável técnico
+da empresa titular do registro.
+Informar o nome e endereço da empresa titular do registro no Brasil.
+Informar o número do Cadastro Nacional de Pessoa Jurídica (CNPJ) do titular do registro.
+Inserir a expressão "Indústria Brasileira", quando aplicável.
+Informar o telefone do Serviço de Atendimento ao Consumidor (SAC), de responsabilidade da empresa
+titular do registro.
+Informar o nome e endereço da empresa fabricante, quando ela diferir da empresa titular do registro,
+citando a cidade e o estado precedidos pela frase "Fabricado por:" e inserindo a frase "Registrado por:"
+antes dos dados da detentora do registro.
+Informar o nome e endereço da empresa fabricante, quando o medicamento for importado, citando a
+cidade e o país precedidos pela frase "Fabricado por" e inserindo a frase "Importado por:" antes dos
+dados da empresa titular do registro.
+Informar o nome e endereço da empresa responsável pela embalagem do medicamento, quando ela diferir
+da empresa titular do registro ou fabricante, citando a cidade e o estado ou, se estrangeira, a cidade e o
+país, precedidos pela frase "Embalado por:" e inserindo a frase "Registrado por:" ou "Importando por:",
+conforme o caso, antes dos dados da empresa titular do registro;
+Informar, se descrito na embalagem do medicamento, o nome e endereço da empresa responsável pela
+comercialização do medicamento, citando a cidade e o estado precedidos pela frase "Comercializado por"
+e incluindo a frase "Registrado por:" antes dos dados da detentora do registro.
+É facultativo incluir a logomarca da empresa farmacêutica titular do registro, bem como das empresas
+fabricantes e responsáveis pela embalagem e comercialização do medicamento, desde que não
+prejudiquem a presença das informações obrigatórias e estas empresas estejam devidamente identificadas
+nos dizeres legais.
+Incluir as seguintes frases, quando for o caso:
+"Uso restrito a hospitais" (para os medicamentos de uso restrito a hospitais);
+"Venda sob prescrição médica" (para os medicamentos de venda sob prescrição médica);
+"Siga corretamente o modo de usar, não desaparecendo os sintomas procure orientação médica" (para os
+medicamentos vendidos sem exigência de prescrição médica);
+"Uso sob prescrição médica." (para embalagens com destinação institucional);
+"Venda proibida ao comércio." (para os medicamentos com destinação institucional).
+Incluir as frases de restrições de venda, uso e dispensação previstas na norma específica para produtos
+controlados.
+Incluir, exceto nos textos de bula a serem submetidos eletronicamente à Anvisa, uma das seguintes frases,
+conforme o caso, em negrito:
+"Esta bula foi aprovada pela Anvisa em (dia/mês/ano)" (informando a data de publicação da bula no
+Bulário Eletrônico)
+"Esta bula foi atualizada conforme Bula Padrão aprovada pela Anvisa em (dia/mês/ano)" (informando a
+data de publicação da respectiva Bula Padrão no Bulário Eletrônico com a qual a bula foi harmonizada
+e/ou atualizada)
+Incluir símbolo da reciclagem de papel.
+
+VENDA SOB PRESCRIÇÃO MÉDICA
+
+
+REFERÊNCIAS UTILIZADAS:
+
+ALONSO, JR. Tratado de Fitomedicina-Bases Clínicas y Farmacológicas; Ed. Isis, 1999. 780.
+BAYNE CW, ROSS M, DONNELLY F, et al. The selectivity and specificity of the actions of the
+lipido-sterolic extract of Serenoa repens (Permixon®) on the prostate. J Urol. 2000 Sep; 164: 876-81.8
+BLUMENTHAL M, BUSSE WR, GOLDBERG A, et al. (eds.). The Complete German
+Commission E Monographs ­ Therapeutic Guide to Herbal Medicines. Austin, TX: American
+Botanical Council; Boston: Integrative Medicine Communication; 1998: 201.
+BOYLE P, ROBERTSON C, LOWE F, et al. Meta-analysis of clinical trials of Permixon® in the
+treatment of symptomatic benign prostatic hyperplasia. Urology. 2000. 55:33-9.
+CARRARO J, RAYNAUD J, KOCH G et al. Comparison of phytotherapy (Permixon®) with
+finasteride in the treatment of benign prostate hyperplasia: a randomized international study of
+1,098 patients. Prostate. 1996. 29(4): 231-40.
+CARRILLA E, BRILEY M, FAURAN F, et al. Binding of Permixon®, a new treatment for
+prostatic benign hyperplasia, to the cytosolic androgen receptor in the rat prostate. J Steroid
+Biochem 1984. 20(1):521-3.
+CHAVEZ M, CHAVEZ P. Saw palmetto. Hospital Pharm 1998. 33(11):1335-61.
+DI SILVERIO F., FLAMMIA G., et al. Plant extracts in B.P.H. Minerva Urológica e Nefrológica.
+1993. Vol. 45. nº 4: 143-9.
+GELLER, HW: Informe Técnico: Sereprostat. pp.28. Morrith, Madrid. 1985.
+MARKS L, PARTIN A, EPSTEIN J, et al. Effects of a saw palmetto herbal blend in men with
+symptomatic benign prostatic hyperplasia. J Urol. 2000. May; 163(5): 1451-6.
+MCGUFFIN M, HOBBS C, UPTON R, GOLDBERG A. American Herbal Products Association's
+Botanical Safety Handbook. Boca Raton: CRC Press; 1997.
+STENGER A, TARAYRE J, CARILLA E, et al. Pharmacological and biochemical study of the
+hexanoic extract of Serenoa repens B ( PA 109), [in German]. Gax Med de France 1982. 89:
+2041-8.
+SULTAN C, TERRAZA A, DEVILLIER C, et al. Inhibition of androgen metabolism and binding
+by a liposterolic extract of "Serenoa repens B" in human foreskin fibroblasts. J Steroid Biochem
+1984. 20(10):515-9.
+

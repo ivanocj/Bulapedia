@@ -1,0 +1,973 @@
+    Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                         São Paulo - SP               Fax: 55 11 5536 7126
+                                         CEP: 04566-905
+
+
+
+
+I) IDENTIFICAÇÃO DO MEDICAMENTO:
+
+NORVIR®
+ritonavir
+
+APRESENTAÇÃO
+
+Solução oral de:
+80 mg/mL: embalagem com 1 frasco de 240 mL.
+
+VIA ORAL
+
+USO ADULTO E PEDIÁTRICO ACIMA DE 1 MÊS DE IDADE
+
+COMPOSIÇÃO
+
+NORVIR® (ritonavir) solução oral 80 mg/mL:
+Cada mL contém:
+ritonavir.................................................................... 80 mg
+Excipientes: álcool etílico, água deionizada, óleo de rícino e propilenoglicol, sacarina
+sódica, ácido cítrico para ajuste do pH, óleo de hortelã, sabor de caramelo e corante
+amarelo FD&C nº 6 (E110).
+
+II) INFORMAÇÕES AO PACIENTE
+
+1. PARA QUÊ ESTE MEDICAMENTO É INDICADO?
+
+NORVIR® (ritonavir) é destinado, em combinação com outros antirretrovirais, ao
+tratamento de pacientes adultos e pediátricos infectados pelo HIV, quando uma terapia
+antirretroviral for indicada com base em evidência clínica ou imunológica de
+progressão da doença. NORVIR® (ritonavir) não cura a infecção por HIV e os
+pacientes podem adquirir outras doenças associadas à infecção por HIV, incluindo
+infecções oportunistas.
+
+2. COMO ESTE MEDICAMENTO FUNCIONA?
+
+NORVIR® (ritonavir) é um inibidor da protease do HIV, apresentando atividade contra
+o Vírus da Imunodeficiência Humana (HIV).
+NORVIR® (ritonavir) é um medicamento de uso contínuo e o início da ação depende
+de cada paciente. Sua ação e eficácia são mantidas durante os intervalos de doses. Seu
+médico lhe dará a orientação necessária.
+Como é um medicamento de uso contínuo destinado ao tratamento de pacientes
+infectados pelo HIV, a duração do tratamento depende de orientação médica.
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                             1
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+3. QUANDO NÃO DEVO USAR ESTE MEDICAMENTO?
+
+Este medicamento não deve ser utilizado por pacientes que tiveram reações alérgicas
+graves ao ritonavir ou a quaisquer componentes da fórmula.
+
+Quando ritonavir for coadministrado com outro inibidor de protease, o médico deve
+verificar as informações completas de prescrição destes inibidores de protease
+inclusive suas contraindicações.
+
+O uso de NORVIR® (ritonavir) é contraindicado em combinação às seguintes
+substâncias: antagonistas do receptor alfa1-adrenérgico (cloridrato de alfuzosina),
+antiarrítmicos (amiodarona, bepridila, flecainida, propafenona, quinidina, encainida),
+antibióticos (ácido fusídico), antifúngicos (voriconazol), anti-histamínicos (astemizol,
+terfenadina), antipsicóticos (blonanserina), derivados de ergot (diidroergotamina,
+ergonovina, ergotamina, metilergonovina), agentes de motilidade gastrintestinal
+(cisaprida), produtos fitoterápicos (erva-de-São-João - Hypericum perforatum),
+inibidores da HMG-CoA redutase (lovastatina, sinvastatina), agonistas beta-
+adrenérgicos de ação prolongada (salmeterol), neurolépticos (pimozida), inibidores da
+PDE5 (sildenafila - apenas quando utilizada para o tratamento de hipertensão arterial
+pulmonar), sedativos/hipnóticos (midazolam, triazolam).
+
+
+4. O QUE DEVO SABER ANTES DE USAR ESTE MEDICAMENTO?
+
+Advertências e Precauções:
+
+Quando ritonavir for coadministrado com outro inibidor de protease, o médico deve
+verificar as informações completas de prescrição destes inibidores de protease
+inclusive suas advertências e precauções.
+
+Reações alérgicas: foram relatadas reações alérgicas, incluindo urticária (alergia de
+pele), erupções leves de pele, bronco espasmos (estreitamento das vias aéreas),
+angioedema (inchaço dos lábios e pálpebras) e, raramente, anafilaxia (alergia grave) e
+síndrome de Stevens-Johnson.
+
+Reações hepáticas (do fígado): o ritonavir é metabolizado e eliminado principalmente
+pelo fígado. Portanto, deve-se ter cautela ao administrar ritonavir a pacientes com
+insuficiência do fígado moderada a grave.
+Elevações de transaminases hepáticas (enzimas do fígado) excedendo cinco vezes o
+limite superior de normalidade, hepatite clínica e icterícia (coloração amarela na pele)
+ocorreram em pacientes recebendo ritonavir isoladamente ou em combinação a outros
+medicamentos antirretrovirais. Pode haver um risco aumentado de elevação de
+transaminases em pacientes com hepatite B ou C subjacente. Portanto, deve-se ter
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 2
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+cautela quando se administrar ritonavir a pacientes com doença do fígado pré-
+existente, alterações em enzimas hepáticas ou hepatite.
+Houve relatos de disfunção do fígado, incluindo alguns óbitos. Esses casos geralmente
+ocorreram em pacientes utilizando múltiplos medicamentos concomitantes e/ou com
+AIDS avançada. Uma relação causa/efeito definitiva não foi estabelecida.
+
+Pancreatite: pancreatite (inflamação do pâncreas) foi observada em pacientes em uso
+de ritonavir, incluindo aqueles que desenvolveram aumento dos triglicérides
+(hipertrigliceridemia). Alguns casos fatais foram relatados. Pacientes com doença
+avançada pelo HIV podem apresentar risco aumentado de elevação de triglicérides e
+pancreatite.
+Pancreatite deve ser considerada se ocorrerem sinais clínicos (náusea, vômitos, dor
+abdominal) ou alterações laboratoriais (como valores aumentados de lipase ou
+amilase) sugestivos de pancreatite. Pacientes que apresentem estes sinais ou sintomas
+devem entrar em contato com seu médico imediatamente, para avaliar a continuidade
+do tratamento.
+
+Diabetes mellitus/Hiperglicemia (alta taxa de açúcar no sangue): foram relatados
+aparecimento de diabetes mellitus, exacerbação de diabetes mellitus pré-existente e
+hiperglicemia em pacientes infectados por HIV que receberam tratamento com
+inibidores da protease. Alguns pacientes necessitaram iniciar ou ajustar as doses de
+insulina ou hipoglicemiantes orais para o tratamento destes eventos. Em alguns casos
+ocorreu cetoacidose diabética (disfunção metabólica grave causada pela deficiência
+relativa ou absoluta de insulina). Nos pacientes que descontinuaram o tratamento com
+inibidores da protease, a hiperglicemia persistiu em alguns casos. Como estes eventos
+foram relatados espontaneamente durante a prática clínica, não se pôde estimar a sua
+frequência e uma relação causal entre o tratamento com inibidores da protease e estes
+eventos não foi estabelecida.
+
+Corticosteróides: o uso combinado de ritonavir e propionato de fluticasona pode
+aumentar significantemente a concentração de propionato de fluticasona no plasma e
+reduzira concentração de cortisol. Efeitos sistêmicos dos corticosteróides, incluindo
+Síndrome de Cushing e supressão adrenal, foram relatados quando ritonavir foi
+administrado concomitantemente a propionato de fluticasona inalável ou intranasal.
+Não se pode excluir a possibilidade de que efeitos semelhantes possam ocorrer quando
+outros corticosteróides inaláveis, como budesonida, forem administradas com
+ritonavir. Atenção especial deve ser dada quando houver administração combinada de
+qualquer glicocorticóide inalável ou intranasal e ritonavir.
+
+Agentes da disfunção erétil (Inibidores da PD5): O uso de NORVIR® (ritonavir) e
+sildenafila, tadalafila ou vardenafila pode causar aumento no risco de efeitos adversos
+associados a essas drogas, incluindo hipotensão (pressão arterial baixa) e ereção
+persistente. O uso concomitante de ritonavir e sildenafila é contraindicado a pacientes
+com hipertensão arterial pulmonar (pressão alta no pulmão).
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 3
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Produtos fitoterápicos: pacientes utilizando ritonavir não devem usar produtos
+contendo erva-de-São-João (Hypericum perforatum), pois a administração
+concomitante pode reduzir as concentrações de ritonavir no sangue. Isto pode resultar
+em perda do efeito terapêutico e desenvolvimento de resistência.
+
+Inibidores da HMG-CoA redutase: os inibidores da HMG-CoA redutase,
+medicamentos que atuam na redução do colesterol, tais como a lovastatina e
+sinvastatina, podem apresentar um aumento acentuado de suas concentrações no
+sangue quando administrados juntamente a NORVIR® (ritonavir). Considerando que
+as concentrações aumentadas de inibidores da HMG-CoA redutase podem causar
+miopatia (alterações nos músculos), incluindo a rabdomiólise (destruição muscular), a
+combinação desses medicamentos com NORVIR® (ritonavir) é contraindicada.
+Quando a administração em conjunto com atorvastatina estiver indicada, deve-se
+utilizar a menor dose possível. Mesmo considerando que a eliminação de rosuvastatina
+não é dependente do CYP3A, uma elevação da exposição de rosuvastatina foi relatada
+com o uso concomitante com ritonavir. As interações com pravastatina e fluvastatina
+não são esperadas. Se houver indicação de tratamento combinado de NORVIR®
+(ritonavir) com um inibidor da HMG-CoA redutase, recomenda-se utilizar pravastatina
+ou fluvastatina.
+
+Antagonistas de receptor alfa1-adrenérgico: com base em estudos de interação
+medicamentosa com cetoconazol e alfuzosina, um aumento significativo de alfuzosina
+ocorreu quando da administração de ritonavir. Portanto, alfuzosina não deve ser
+administrada com ritonavir.
+
+Antimicobacterianos: ritonavir, assim como qualquer outro inibidor da protease, não
+deve ser administrado concomitantemente com rifampicina, devido ao risco de
+hepatotoxicidade (toxicidade do fígado) grave (aumento das transaminases).
+
+Inibidor de protease: tipranavir coadministrado a ritonavir foi associado com relatos
+de hepatite clínica e descompensação hepática, incluindo algumas fatalidades. É
+necessária vigilância extra em pacientes com hepatite B crônica ou coinfecção por
+hepatite C, já que esses pacientes têm um risco aumentado de hepatotoxicidade
+(toxicidade do fígado).
+
+Resistência/Resistência cruzada: não se sabe qual será o efeito do tratamento com
+ritonavir sobre a atividade dos medicamentos inibidores de protease administrados
+concomitantemente ou subsequentemente ao NORVIR® (ritonavir).
+Exames laboratoriais: ritonavir foi associado a alterações de triglicérides, colesterol,
+transaminases (AST e ALT), GGT, CPK e ácido úrico. Recomenda-se realizar testes
+laboratoriais antes do início do tratamento com ritonavir e periodicamente durante o
+tratamento, ou na presença de sinais clínicos.
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 4
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Hemofilia (distúrbio hereditário originado de um defeito da coagulação
+sanguínea, provocando sangramento): foi relatado sangramento aumentado,
+incluindo hematomas espontâneos de pele e hemartrose (derrame de sangue numa
+articulação), em pacientes com hemofilia tipo A e B, tratados com inibidores de
+protease.
+
+Efeitos no eletrocardiograma: NORVIR® (ritonavir) mostrou causar discreta
+alteração no eletrocardiograma em alguns pacientes. NORVIR® (ritonavir) deve ser
+utilizado com cautela em pacientes com insuficiência cardíaca e alterações do ritmo
+cardíaco.
+
+Redistribuição de gordura: foi observada redistribuição ou acúmulo de gordura no
+corpo, incluindo obesidade, aumento de gordura dorso cervical, emagrecimento das
+extremidades, perda de gordura na face, aumento das mamas e "aparência
+cushingóide" (face arredondada) em pacientes que receberam medicamento para tratar
+o HIV (terapia antirretroviral).
+
+Alterações lipídicas: o tratamento com ritonavir isoladamente ou em combinação a
+outros inibidores da protease resultou em aumentos substanciais na concentração de
+triglicérides e colesterol total. Dosagens de triglicérides e colesterol devem ser
+solicitadas pelo seu médico antes do início e a intervalos periódicos durante o
+tratamento com NORVIR® (ritonavir). Alterações lipídicas devem ser controladas de
+forma clinicamente apropriada.
+
+Síndrome da Reconstituição Imunológica: tal síndrome foi relatada em pacientes
+infectados por HIV tratados com terapia antirretroviral combinada, incluindo ritonavir.
+Durante a fase inicial da terapia antirretroviral combinada, quando o sistema
+imunológico reage, pacientes podem desenvolver uma resposta inflamatória a
+infecções assintomáticas ou a infecções oportunistas latentes (como infecção causada
+por Mycobacterium avium, citomegalovírus, pneumonia causada por Pneumocystis
+jiroveci, ou tuberculose), que podem necessitar de avaliação e tratamentos adicionais.
+
+Cuidados e advertências para populações especiais
+
+Uso em idosos: não há recomendações específicas para o uso de NORVIR® (ritonavir)
+em idosos.
+Uso pediátrico: em pacientes com idade entre 1 mês e 21 anos, infectados por HIV, a
+atividade antiviral e o perfil de eventos adversos observados foram similares aos de
+pacientes adultos. Este medicamento não foi estudado em crianças menores de 1 mês
+de idade.
+Uso na gravidez e lactação: NORVIR® (ritonavir) não deve ser utilizado por
+mulheres grávidas ou que estejam amamentando, a menos que, na opinião do médico,
+os benefícios potenciais justifiquem claramente os possíveis riscos. Não se recomenda
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 5
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+que mulheres infectadas pelo HIV amamentem seus filhos, para evitar a transmissão
+do HIV.
+
+Este medicamento não deve ser utilizado por mulheres grávidas sem orientação
+médica ou do cirurgião-dentista.
+
+Interações medicamentosas:
+
+Quando ritonavir for coadministrado com outro inibidor de protease, o médico deve
+verificar as informações completas de prescrição destes inibidores de protease
+inclusive suas interações medicamentosas.
+
+NORVIR® (ritonavir) não deve ser utilizado com certos tipos de medicamentos, pois
+podem ocorrer potenciais eventos adversos sérios ou diminuição da atividade de
+quaisquer dos medicamentos utilizados.
+O fumo está associado à uma redução da concentração de ritonavir no sangue,
+podendo haver diminuição da ação do medicamento.
+O monitoramento cuidadoso dos efeitos adversos pelo médico é recomendado quando
+estas substâncias forem administradas concomitantemente ao ritonavir. A redução de
+dose pode ser necessária em alguns casos.
+
+Interações com importantes considerações:
+
+dissulfiram/metronidazol: a solução oral de ritonavir contém etanol (43%); portanto,
+a administração concomitante de ritonavir e dissulfiram ou medicamentos com reações
+semelhantes ao dissulfiram (ex.: metronidazol) deve ser evitada.
+propionato de fluticasona: o uso combinado de ritonavir e propionato de fluticasona
+pode aumentar a concentração de propionato de fluticasona. Usar com atenção.
+Considerar drogas alternativas ao propionato de fluticasona, particularmente quando o
+uso for prolongado.
+erva-de-São-João (Hypericum perforatum): pacientes utilizando ritonavir não devem
+usar produtos contendo erva-de-São-João (Hypericum perforatum), pois a
+administração concomitante pode reduzir as concentrações plasmáticas de ritonavir
+que pode resultar em perda do efeito terapêutico e desenvolvimento de resistência.
+saquinavir/ritonavir + rifampicina: saquinavir e ritonavir não devem ser
+administrados com rifampicina devido ao risco de hepatotoxicidade grave (toxicidade
+do fígado).
+sildenafila: o uso concomitante de sildenafila e ritonavir é contraindicado em
+pacientes com hipertensão (pressão alta) arterial pulmonar.
+voriconazol: a administração de voriconazol juntamente a ritonavir é contraindicada
+
+Interações com recomendações de alteração de dose e monitoramento:
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 6
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Eventos cardíacos e neurológicos foram reportados quando ritonavir foi
+coadministrado a disopiramida, mexiletina, nefazodona ou fluoxetina. A possibilidade
+de interação medicamentosa não deve ser excluída.
+
+bosentana: a coadministração de bosentana e ritonavir pode aumentar a concentração
+de bosentana no sangue. Consulte as informações da bula de bosentana.
+buspirona: quando coadministrada com ritonavir, é recomendado que se use com
+cautela uma dose baixa ou que se faça uma redução da dosagem.
+claritromicina: não é necessária uma redução na dosagem em pacientes com função
+renal normal. Entretanto, para pacientes com função renal comprometida, o médico
+deverá ajustar a dose de acordo com a depuração de creatinina. Doses de
+claritromicina superiores a 1 g diário não devem ser administradas com ritonavir.
+colchicina: é esperado um aumento das concentrações de colchicina quando
+coadministrado com ritonavir. Consulte as informações da bula de colchicina.
+delavirdina: com base na comparação de dados históricos, a farmacocinética de
+delavirdina não parece ser afetada pelo ritonavir. Quando usado juntamente a
+delavirdina, pode-se considerar a redução na dose de ritonavir.
+desipramina: redução na dosagem de desipramina deve ser considerada em pacientes
+recebendo esta combinação.
+didanosina (ddl): não é necessário ajuste de dosagem de ddl, contudo, os dois
+medicamentos devem ser administrados separadamente, com 2,5 horas de intervalo,
+para evitar incompatibilidade das formulações.
+digoxina: atenção especial deve ser dada quando digoxina e ritonavir forem
+administrados concomitantemente, com monitoramento apropriado dos níveis de
+digoxina no sangue.
+fentanila: a coadministração com ritonavir resulta em aumento das concentrações
+plasmáticas de fentanila. Ë recomendada monitoração cuidadosa da terapêutica e dos
+eventos adversos (incluindo depressão respiratória) quando fentanila é coadministrada
+com ritonavir.
+indinavir: o ritonavir inibe o metabolismo do indinavir. A coadministração do
+ritonavir e indinavir resultará em aumento das concentrações do indinavir. O risco de
+nefrolitíase (cálculos nos rins) pode estar aumentado quando doses de indinavir  800
+mg duas vezes ao dia são administradas concomitantemente ao ritonavir. Nestas
+condições, recomenda-se adequada hidratação e monitoração dos pacientes.
+cetoconazol: não há necessidade de ajuste de dosagem do ritonavir; entretanto, doses
+de cetoconazol de 200 mg/dia ou mais em combinação com ritonavir devem ser usadas
+com cautela e uma redução de dosagem pode ser considerada.
+metadona: a administração concomitante de ritonavir e metadona resultou em
+diminuição das concentrações de metadona. Um aumento na dosagem de metadona
+pode ser considerado.
+contraceptivos orais e adesivos: pacientes que utilizam anticoncepcionais orais e
+adesivos devem tomar medidas adicionais para evitar gravidez durante o uso de
+NORVIR® (ritonavir). O aumento da dosagem de contraceptivos orais e adesivos
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 7
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+contendo etinilestradiol ou substituição por métodos alternativos de contracepção deve
+ser considerado.
+rifabutina: uma redução na dosagem de rifabutina de pelo menos três-quartos (3/4) da
+dose usual de 300 mg/dia é recomendada (ex. 150 mg em dias alternados ou três vezes
+por semana). Uma redução adicional na dosagem também pode ser necessária.
+sildenafila: para o tratamento da disfunção erétil, usar a sildenafila com atenção, em
+doses reduzidas de 25 mg a cada 48 horas, com monitoramento dos efeitos adversos.
+Espera-se que a coadministração de ritonavir e sildenafila aumente substancialmente
+as concentrações de sildenafila e possa resultar em aumento dos eventos adversos
+associados à sildenafila, incluindo hipotensão (pressão baixa), síncope (perda súbita e
+transitória da consciência), alterações visuais e ereção prolongada.
+tadalafila: usar tadalafila, para o tratamento de disfunção erétil, com atenção, em
+doses reduzidas de, no máximo, 10 mg a cada 72 horas, com monitoramento dos
+efeitos adversos. O médico deve consultar as informações da bula de tadalafina quando
+esta for coadministrada com ritonavir em pacientes com hipertensão arterial pulmonar
+(pressão alta no pulmão).
+teofilina: um estudo demonstrou que a administração concomitante de ritonavir e
+teofilina resultou em decréscimo da concentração de teofilina. Aumento da dosagem
+de teofilina pode ser necessário.
+trazodona: o uso combinado de ritonavir e trazodona pode aumentar a concentração
+de trazodona. Efeitos adversos como náuseas, vertigens, hipotensão e síncope foram
+observados. A combinação deve ser usada com atenção e uma dose menor de
+trazodona pode ser considerada.
+vardenafila: usar vardenafila com atenção, em doses reduzidas de, no máximo, 2,5
+mg a cada 72 horas, com monitoramento dos efeitos adversos.
+varfarina: a gama de efeitos da coadministração do ritonavir sobre a ação
+anticoagulante da varfarina é difícil de ser prevista com base em resultados de estudos.
+Recomenda-se controle inicial frequente do INR durante a coadministração de
+ritonavir e varfarina.
+Agentes anticancerígenos (dasatinibe, nilotinibe, vincristina, vimblastina):: as
+concentrações séricas podem aumentar quando houver coadministração de ritonavir,
+resultando em um possível aumento na incidência de eventos adversos.
+
+Outras interações medicamentosas:
+
+alprazolam: foi observado um efeito na curva do efeito sedativo, mas não na extensão
+da sedação. Discreta depressão psicomotora foi confundida com um efeito de
+aprendizado. Estes resultados são inconsistentes com o efeito farmacológico do
+alprazolam. Estes resultados não foram considerados clinicamente significantes.
+amprenavir: as concentrações do inibidor de protease do HIV amprenavir são
+aumentadas quando coadministrado a ritonavir.
+bupropiona: é esperado que a administração concomitante de bupropiona e doses
+repetidas de ritonavir reduza os níveis de bupropiona.
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 8
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+efavirenz: o uso de ritonavir em combinação a efavirenz leva ao aumento de ambas as
+substâncias no sangue.
+ácido fusídico: presume-se que a administração combinada de inibidores de proteases,
+incluindo ritonavir e ácido fusídico resulte em aumento das concentrações tanto de
+ácido fusídico como do inibidor de protease no plasma.
+nelfinavir: a administração concomitante de 400 mg de ritonavir duas vezes ao dia
+aumenta significativamente as concentrações do M8 (o principal metabólito do
+nelfinavir) e resulta em pequenos aumentos nas concentrações do nelfinavir.
+saquinavir: o ritonavir inibe extensamente o metabolismo do saquinavir resultando
+em concentrações do saquinavir muito aumentadas. Quando usados em terapia
+combinada por até 24 semanas, doses maiores que 400 mg duas vezes ao dia tanto de
+saquinavir quanto de ritonavir foram associadas a um aumento de eventos adversos.
+sulfametoxazol/trimetoprima: a administração concomitante de ritonavir e
+sulfametoxazol/trimetoprima resultou em um decréscimo nas concentrações de
+sulfametoxazol e aumento nas concentrações de trimetoprima. Pode não ser necessário
+ajuste de dosagem.
+zidovudina (AZT): a administração concomitante de ritonavir e zidovudina resultou
+em uma diminuição da concentração sanguínea da zidovudina. Por outro lado, foi
+observado pouco ou nenhum efeito na farmacocinética do ritonavir. Pode não ser
+necessário ajuste de dosagem de zidovudina durante terapia concomitante com
+ritonavir.
+
+Informe ao seu médico ou cirurgião-dentista se você está fazendo uso de algum
+outro medicamento.
+
+Não use medicamento sem o conhecimento do seu médico. Pode ser perigoso para
+a sua saúde.
+
+Atenção: o uso incorreto causa resistência do vírus da AIDS e falha no
+tratamento.
+
+5. ONDE, COMO E POR QUANTO TEMPO POSSO GUARDAR ESTE
+MEDICAMENTO?
+
+NORVIR® (ritonavir) solução oral deve ser mantido em temperatura controlada de 20
+a 25ºC.
+Após aquisição pelo paciente, o produto pode ser mantido em temperatura ambiente
+(temperatura entre 15 e 30ºC) desde que seja consumido dentro de 1 mês. Não
+refrigerar.
+
+Número de lote e datas de fabricação e validade: vide embalagem
+Não use medicamento com o prazo de validade vencido. Guarde-o em sua
+embalagem original.
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 9
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Características físicas e organolépticas
+NORVIR® (ritonavir) solução oral é uma solução límpida, alaranjada e de sabor
+amargo.
+
+Antes de usar, observe o aspecto do medicamento. Caso ele esteja no prazo de
+validade e você observe alguma mudança no aspecto, consulte o farmacêutico
+para saber se poderá utilizá-lo.
+
+Todo medicamento deve ser mantido fora do alcance das crianças.
+
+
+
+6. COMO DEVO USAR ESTE MEDICAMENTO?
+
+Os médicos devem consultar as informações completas de prescrição e estudos
+clínicos sobre inibidores da protease para verificar se estes são coadministrados com
+doses reduzidas de ritonavir.
+
+NORVIR® (ritonavir) solução oral deve ser administrado por via oral, de preferência
+com alimentos. Agitar bem antes de usar.
+
+A duração do tratamento depende de orientação médica, a partir da avaliação clínica e
+laboratorial de cada paciente.
+
+Modo de preparo:
+Para abrir o frasco de NORVIR® (ritonavir) solução oral, aperte a tampa para baixo e
+gire. Use o copo-medida fornecido para medir a dose. Seque bem o copo-medida antes
+de colocar a dose. Coloque o medicamento no copo-medida até a marca, de acordo
+com a dose indicada pelo médico. O copo-medida de NORVIR® (ritonavir) solução
+oral deve ser lavado imediatamente após o uso com água quente e detergente; não usar
+máquina de lavar louça. A limpeza imediata retira resíduos de medicamento. O copo-
+medida precisa estar seco antes de ser usado.
+
+NORVIR® (ritonavir) solução oral pode deixar um sabor desagradável na boca. Para
+diminuí-lo, NORVIR® (ritonavir) pode ser misturado com leite achocolatado. Misture
+só uma dose por vez e tome-a imediatamente. Não misture com água.
+
+Posologia
+NORVIR® (ritonavir) solução oral geralmente é administrado 2 vezes por dia. Quando
+administrado em combinação a outros inibidores da protease, a dose será definida pelo
+médico.
+A dose máxima diária de ritonavir é de 600 mg (7,5 mL) duas vezes ao dia, ou seja,
+1.200 mg (15 mL) totais por dia.
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 10
+             Abbott Laboratórios do Brasil Ltda      Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                                     São Paulo - SP               Fax: 55 11 5536 7126
+                                                     CEP: 04566-905
+
+
+
+
+     Adultos
+     A dose recomendada de NORVIR® (ritonavir) solução oral é de 600 mg (7,5 mL) duas
+     vezes por dia.
+     Para ajudar a reduzir os eventos adversos, habitualmente, inicia-se o tratamento com
+     doses menores, com aumentos gradativos, até que se chegue à dose completa.
+     NORVIR® (ritonavir) deve ser iniciado com doses de, no mínimo, 300 mg (3,75 mL)
+     duas vezes ao dia durante período de três dias, com incrementos de 100 mg (1,25 mL)
+     duas vezes ao dia, até atingir a dose máxima de 600 mg (7,5 mL) duas vezes ao dia em
+     um período não superior a 14 dias. Os eventos adversos frequentemente observados no
+     início do tratamento, como distúrbios gastrintestinais leves a moderados e parestesia,
+     podem diminuir com a continuidade do tratamento. Os pacientes não devem ser
+     mantidos com dose de 300 mg (3,75 mL) duas vezes ao dia por mais de três dias.
+
+
+     Crianças
+
+     A dose recomendada de ritonavir em crianças com mais de 1 mês de idade é de 350 a
+     400 mg/m2 de superfície corporal, por via oral, duas vezes por dia e não deve exceder
+     600 mg (7,5 mL) duas vezes por dia. NORVIR® (ritonavir) deve ser iniciado com
+     doses duas vezes ao dia de 250 mg/m2 e incrementos de 50 mg/m2 em cada dose, em
+     intervalos de 2 a 3 dias. Se os pacientes não tolerarem a dose máxima diária devido às
+     reações adversas, a dose máxima tolerada deve ser utilizada como tratamento de
+     manutenção, em combinação com outros agentes antirretrovirais. Sempre que possível,
+     a dose deve ser administrada através de uma seringa calibrada.
+
+     Fica a critério do médico prescritor a escolha pela apresentação que mais se adeque ao
+     paciente pediátrico.
+
+     A tabela abaixo apresenta o guia para doses pediátricas de NORVIR® (ritonavir)
+     baseando-se na Área de Superfície Corporal.
+
+
+                                     POSOLOGIA PEDIÁTRICA
+
+   Área de
+                    2 doses diárias         2 doses diárias            2 doses diárias           2 doses diárias
+  superfície
+                      250 mg/m2               300 mg/m2                  350 mg/m2                 400 mg/m2
+corporal (m2)*
+                                                  0,75 mL                   0,9 mL                       1,0 mL
+     0,20            0,6 mL (50mg)
+                                                  (60 mg)                   (70 mg)                      (80 mg)
+
+                                                  0,9 mL                    1,1 mL                   1,25 mL
+     0,25          0,8 mL (62,5mg)
+                                                  (75 mg)                  (87,5 mg)                 (100 mg)
+
+
+
+     NORVIR_SOL OR_105530204_VP2
+                                                                                                              11
+        Abbott Laboratórios do Brasil Ltda      Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                                São Paulo - SP               Fax: 55 11 5536 7126
+                                                CEP: 04566-905
+
+
+
+
+                    1,6 mL                    1,9 mL                   2,2 mL                    2,5 mL
+0,50
+                   (125 mg)                  (150 mg)                 (175 mg)                  (200 mg)
+
+                    2,3 mL                    2,8 mL                   3,3 mL                   3,75 mL
+0,75
+                  (187,5 mg)                 (225 mg)                (262,5 mg)                 (300 mg)
+
+                    3,1 mL                   3,75 mL                   4,4 mL                     5 mL
+1,00
+                   (250 mg)                  (300 mg)                 (350 mg)                  (400 mg)
+
+                    3,9 mL                    4,7 mL                   5,5 mL                   6,25 mL
+1,25
+                  (312,5 mg)                 (375 mg)                (437,5 mg)                 (500 mg)
+
+                    4,7 mL                    5,6 mL                   6,6 mL                    7,5 mL
+1,50
+                   (375 mg)                  (450 mg)                 (525 mg)                  (600 mg)
+*A área de superfície corporal (ASC) pode ser calculada com a seguinte equação: ASC
+(m2) = [Altura (cm) X peso (kg) / 3600]1/2
+
+Siga a orientação do seu médico, respeitando sempre os horários, as doses e a
+duração do tratamento. Não interrompa o tratamento sem o conhecimento do seu
+médico.
+
+
+7. O QUE DEVO FAZER QUANDO EU ME ESQUECER DE USAR ESTE
+MEDICAMENTO?
+
+Caso esqueça de tomar uma dose de NORVIR® (ritonavir), tome-a tão logo se lembre.
+Se estiver próximo à dose seguinte, espere e tome a dose no horário previsto. Não
+duplique a dose seguinte.
+
+Em caso de dúvidas, procure orientação do farmacêutico ou de seu médico, ou
+cirurgião-dentista.
+
+
+8. QUAIS OS MALES QUE ESTE MEDICAMENTO PODE ME CAUSAR?
+
+Quando ritonavir for coadministrado com outro inibidor de protease, o médico deve
+verificar as informações completas de prescrição destes inibidores de protease
+inclusive suas reações adversas.
+
+Adultos
+
+Reações adversas muito comuns (ocorre em mais de 10% dos pacientes que
+utilizam este medicamento):
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                      12
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Alterações do sistema nervoso: disgeusia (alteração do paladar), cefaléia (dor de
+cabeça) e parestesia (sensações cutâneas sem estimulação).
+Alterações gastrintestinais: diarréia, náusea, parestesia oral e vômito.
+Gerais: fadiga (cansaço).
+
+Reações adversas comuns (ocorre entre 1% e 10% dos pacientes que utilizam este
+medicamento):
+
+Alterações laboratoriais: aumento sanguíneo de triglicérides, teste de função hepática
+(do fígado) anormal, perda de peso.
+Alterações sanguíneas e linfáticas: linfadenopatia (aumento dos gânglios).
+Alterações do sistema nervoso: distúrbio de atenção, tontura, hiperestesia (exaltação
+da sensibilidade), hipoestesia (diminuição da sensibilidade), hiporreflexia (diminuição
+de reflexos), neuropatia (dano em um ou mais nervos) periférica, sonolência e tremor.
+Alterações respiratórias, torácicas e mediastinais: dispnéia (falta de ar), tosse, dor
+orofaríngea, irritação na garganta.
+Alterações gastrintestinais: desconforto abdominal, distensão abdominal, dor
+abdominal, dor abdominal superior, fezes alteradas, constipação (prisão de ventre),
+boca seca, indigestão, eructação, flatulência e hipoestesia oral (sensação de boca
+dormente).
+Alterações renais e urinárias: disúria (dificuldade para urinar).
+Alterações na pele e tecido subcutâneo: hiperidrose (sudorese excessiva), suores
+noturnos, prurido (coceira), rash, rash maculopapular, rash papular e sensação de
+queimação na pele.
+Alterações metabólicas e nutricionais: diminuição do apetite e hipertrigliceridemia
+(aumento do colesterol sanguíneo).
+Alterações músculo-esqueléticas e de articulações: artralgia (dor nas articulações),
+espasmos musculares e mialgia (dor muscular).
+Infestações e infecções: faringite.
+Alterações vasculares: rubor, fogachos (ondas de calor).
+Gerais: astenia (fraqueza), calafrios, calor, indisposição, edema (inchaço) periférico,
+dor e febre.
+Alterações psiquiátricas: ansiedade, depressão e insônia.
+
+Reações adversas incomuns (ocorre entre 0,1% e 1% dos pacientes que utilizam
+este medicamento):
+
+Alterações laboratoriais: aumento da temperatura corpórea, aumento do fluxo
+cardíaco, anormalidade de enzimas hepáticas.
+Alterações cardíacas: palpitações, taquicardia (aumento da frequência cardíaca) e
+taquicardia sinusal (taquicardia é originada no nódulo sinusal).
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 13
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Alterações sanguíneas e linfáticas: anemia, neutropenia (quantidade reduzida de
+neutrófilos no sangue) e trombocitopenia (quantidade reduzida de plaquetas no
+sangue).
+Alterações do sistema nervoso: ageusia (perda de paladar), amnésia (perda de
+memória), alterações de equilíbrio, descoordenação, vertigem postural, hipogeusia
+(diminuição do paladar), danos mentais, parosmia (sensação distorcida do olfato), pré-
+síncope, hiperatividade psicomotora, síncope (perda súbita e transitória da
+consciência), alteração no campo visual.
+Alterações visuais: visão anormal, dor ocular, uveíte (inflamação do trato uveal, que
+inclui a íris, o corpo ciliar e a coróide do olho), acuracidade visual diminuída, visão
+turva, prejuízo visual.
+Alterações do ouvido e labirinto: desconforto auricular, dor de ouvido, zumbido e
+vertigem.
+Alterações respiratórias, torácicas e mediastinais: garganta seca, soluços,
+dificuldade de respirar, roncos no peito, alterações respiratórias.
+Alterações gastrintestinais: estomatite aftosa (aftas), quelite (inflamação nos lábios),
+colite (doença inflamatória intestinal), disfagia (dificuldade de deglutição),
+desconforto epigástrico, fezes pálidas, gastrite, hipermotilidade gastrintestinal, sons
+gastrintestinais anormais, doença do refluxo gastroesofágico, gengivite (inflamação
+gengival), glossodinia (dor na língua), hematoquesia (sangue nas fezes), hemorróida,
+ulcerações na boca, dor esofágica, proctalgia (distúrbio anorretal), tentativa de vômito
+sem êxito e estomatite (sapinho).
+Alterações renais e urinárias: noctúria (urina noturna), poliúria (aumento do volume
+urinário) e polaquiúria (aumento da frequência das micções).
+Alterações na pele e tecido subcutâneo: acne, suor frio, pele seca, eczema, eritema,
+petéquia (pequenos pontos vermelhos), reação de fotossensibilidade, rash eritematosa,
+rash macular, rash pruriginosa, seborréia (produção excessiva de sebo no couro
+cabeludo), esfoliação da pele, irritação da pele, aquecimento da pele e urticária (alergia
+de pele).
+Alterações metabólicas e nutricionais: desidratação e diabetes mellitus.
+Alterações músculo-esqueléticas e de articulações: dor nas costas, dor na costela,
+rigidez na articulação, inchaço na articulação, espasmo muscular, fraqueza muscular,
+rigidez músculo-esquelética, dor no pescoço e sensação de peso.
+Infestações e infecções: foliculite, rinite, sinusite e infecção viral.
+Alterações vasculares: frieza periférica.
+Alterações do sistema imune: hipersensibilidade (reação alérgica).
+Gerais: desconforto no peito, dor torácica, desconforto, frio, nervosismo, modo de
+andar anormal, sintomas de gripe, irritabilidade, delicadeza e sede.
+Alterações hepatobiliares: hepatite (inflamação do fígado), hepatomegalia (aumento
+do fígado além de seu tamanho normal), hepatotoxicidade (toxicidade do fígado) e
+amolecimento do fígado.
+Alterações do sistema reprodutivo e mamas: disfunção erétil (impotência) e
+alterações penianas.
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 14
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Alterações psiquiátricas: alterações nos sonhos, agitação, confusão, desorientação,
+euforia, alucinações, diminuição da libido, nervosismo e alterações de sono.
+Danos, envenenamento e complicações de procedimento: contusão e queimadura de
+sol.
+Procedimentos médicos e cirúrgicos: vasodilatação.
+
+Reações adversas raras (ocorre entre 0,01% e 0,1% dos pacientes que utilizam
+este medicamento):
+
+Alterações laboratoriais e investigações: diminuição da hemoglobina e exames
+neurológicos anormais.
+Alterações sanguíneas e linfáticas: linfadenite (inflamação de gânglios linfáticos) e
+linfocitose (aumento do número de linfócitos no sangue).
+Alterações do sistema nervoso: ataxia (falta de coordenação dos movimentos),
+alterações cognitivas, convulsão, convulsão do tipo Grande Mal, enxaqueca,
+contrações musculares involuntárias, neuralgia (dor em um ou mais nervos), paralisia,
+sono de baixa qualidade e sedação.
+Alterações visuais: blefarite (inflamação comum e persistente das pálpebras), diplopia
+(visão dupla), irite (inflamação da íris), fotofobia e escotoma cintilante (pontos
+brilhantes na visão).
+Alterações do ouvido e labirinto: hipoacusia (deficiência auditiva).
+Alterações respiratórias, torácicas e mediastinais: broncoespasmo (estreitamento
+das vias aéreas), epistaxe (sangramento pelo nariz), hipoventilação (diminuição da
+quantidade de ar que entra e sai dos pulmões durante a respiração), distúrbio pulmonar,
+congestão nasal, edema (inchaço) faríngeo, congestão sinusal e espirros.
+Alterações gastrintestinais: prurido (coceira) anal, distúrbio retal, doença de Crohn
+(doença inflamatória séria do trato gastrintestinal), diarréia sanguinolenta, fezes sem
+cor, distúrbio gastrintestinal, hipercloridria (acidez estomacal), edema e inchaço dos
+lábios, ulceração labial, esofagite (inflamação do esôfago), pancreatite (inflamação do
+pâncreas), incapacidade de defecar e ulceração lingual.
+Alterações renais e urinárias: hematúria (sangue na urina), nefrolitíase (cálculos nos
+rins) e insuficiência renal (dos rins).
+Alterações da pele e tecido subcutâneo: dermatite, dermatite acneiforme, dermatite
+de contato, dermatite esfoliativa, dermatite psoriasiforme, equimose (hematomas),
+erupção esfoliativa, edema periorbital, psoríase, rash folicular, rash vesicular, rosácea
+(doença vascular inflamatória), dermatite seborréica, edema (inchaço) facial,
+telangiectasia (dilatação anormal dos vasos sanguíneos).
+Alterações metabólicas e nutricionais: hipercolesterolemia (alto nível de colesterol
+no sangue), hiperglicemia (alta taxa de açúcar no sangue), hiperlipemia (aumento da
+taxa de gordura no sangue), hipovitaminose (deficiência de vitaminas), polidipsia
+(sede em demasia).
+Alterações músculo-esqueléticas e de articulações: artropatia (dificuldade de se
+mover), miosite (inflamação muscular) e dor mandibular.
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 15
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Infestações e infecções: gastroenterite (inflamação do estômago e intestino), hepatite
+infecciosa, síndrome gripal, abscesso dentário e uretrite (inflamação da uretra).
+Alterações vasculares: hipotensão (pressão arterial baixa), hipotensão postural,
+distúrbio vascular periférico.
+Gerais: edema (inchaço).
+Alterações hepatobiliares: colangite (inflamação das vias biliares).
+Alterações psiquiátricas: alterações de ciclotimia, alterações emocionais, perda de
+libido, depressão maior, pesadelos, inquietação, inibição sexual, terror noturno,
+alteração do pensamento e tiques.
+Danos, envenenamento e complicações de procedimento: quedas e ferimentos
+acidentais.
+
+Experiência pós-comercialização:
+Os seguintes eventos foram relatados durante o período de comercialização de
+NORVIR® (ritonavir). A frequência das reações adversas na pós comercialização é
+desconhecida:
+
+Alterações do sistema nervoso: há relatos de convulsões. Relação de causa e efeito
+não foi estabelecida.
+Distúrbios metabólicos e nutricionais: desidratação, geralmente associada a sintomas
+gastrintestinais, e algumas vezes resultando em hipotensão (pressão baixa), síncope
+(desmaio) ou insuficiência renal. Síncope, hipotensão ortostática e insuficiência renal
+também foram relatadas sem evidência de desidratação.
+Alterações cardíacas: há relatos de infarto do miocárdio (músculo do coração).
+Alterações do sistema reprodutor: menorragia (menstruação abundante ou
+prolongada).
+Alterações de pele e tecido subcutâneo: necrólise epidérmica tóxica (reação severa
+que provoca descolamento da pele).
+
+Pacientes Pediátricos
+O ritonavir foi estudado em pacientes pediátricos com idades entre 1 mês e 21 anos. O
+perfil de eventos adversos observado durante os estudos clínicos pediátricos foi similar
+àquele de pacientes adultos.
+Vômito, diarréia, e erupção cutânea/alergia foram os únicos eventos adversos clínicos
+relacionados à droga de intensidade moderada a grave observados em >2% dos
+pacientes pediátricos registrados em estudos clínicos do ritonavir.
+
+Anormalidades Laboratoriais
+As seguintes anormalidades laboratoriais ocorreram em mais de 3% dos pacientes
+pediátricos que receberam tratamento com ritonavir, seja sozinho ou combinado com
+inibidores da transcriptase reversa: neutropenia (quantidade reduzida de neutrófilos no
+sangue), hiperamilasemia (aumento da amilase sanguínea), trombocitopenia
+(quantidade reduzida de plaquetas no sangue), anemia e AST (enzima do fígado)
+elevada.
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 16
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+Informe ao seu médico, cirurgião-dentista ou farmacêutico o aparecimento de
+reações indesejáveis pelo uso do medicamento. Informe também à empresa
+através do seu serviço de atendimento.
+
+9. O QUE FAZER SE ALGUÉM USAR UMA QUANTIDADE MAIOR DO QUE
+A INDICADA DESTE MEDICAMENTO?
+
+A experiência humana de superdosagem aguda com ritonavir é limitada. Um paciente
+em um ensaio clínico tomou 1500 mg/dia de ritonavir durante 2 dias e relatou
+parestesia (sensações cutâneas sem estimulação), que regrediu depois que a dose foi
+reduzida. Insuficiência dos rins com eosinofilia (aumento da concentração de
+eosinófilos no sangue) foi relatada com superdosagem de ritonavir.
+
+Tratamento da superdosagem
+Não há antídoto específico para ritonavir. O tratamento de superdosagem com
+ritonavir deve consistir de medidas gerais de suporte, incluindo o monitoramento de
+sinais vitais e observação do estado clínico do paciente. É proposto que o tratamento
+da superdosagem inclua também lavagem gástrica e administração de carvão ativado.
+Como ritonavir é extensamente metabolizado pelo fígado e altamente ligado a
+proteínas plasmáticas, é improvável que a diálise seja benéfica na remoção
+significativa do fármaco.
+Em caso de superdosagem com NORVIR® (ritonavir), deve-se procurar socorro
+médico imediatamente.
+
+Em caso de uso de grande quantidade deste medicamento, procure rapidamente
+socorro médico e leve a embalagem ou bula do medicamento, se possível. Ligue
+para 0800 722 6001, se você precisar de mais orientações.
+
+IV)         DIZERES LEGAIS
+
+MS: 1.0553.0204
+
+Farm. Resp.: Fabio Bussinger da Silva
+              CRF-RJ nº 9277
+
+Fabricado por: Abbott Laboratories
+                Abbott Park, IL ­ E.U.A.
+
+Importado e embalado por: Abbott Laboratórios do Brasil Ltda.
+                            Rio de Janeiro - RJ
+                            INDÚSTRIA BRASILEIRA
+
+Registrado por: Abbott Laboratórios do Brasil Ltda.
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 17
+        Abbott Laboratórios do Brasil Ltda   Rua Michigan 735, Brooklin   Tel: 55 11 5536 7000
+                                             São Paulo - SP               Fax: 55 11 5536 7126
+                                             CEP: 04566-905
+
+
+
+
+                     Rua Michigan, 735 ­ São Paulo - SP
+                     CNPJ: 56.998.701/0001-16
+
+
+VENDA SOB PRESCRIÇÃO MÉDICA
+SÓ PODE SER VENDIDO COM RETENÇÃO DA RECEITA
+
+
+Abbott Center
+Central de Relacionamento com o Cliente
+0800 703 1050
+www.abbottbrasil.com.br
+
+
+
+
+NORVIR_SOL OR_105530204_VP2
+                                                                                                 18
+
